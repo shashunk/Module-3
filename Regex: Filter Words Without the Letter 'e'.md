@@ -29,8 +29,5 @@ print("Words without 'e':", l1)
 ## Output
 ![image](https://github.com/user-attachments/assets/fbe52d43-eb10-4615-bd06-3b1dde3da7d2)
 
-
-## Result
-Thus the program executed successful
 ## Result
 Thus the program executed successfully.
